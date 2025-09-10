@@ -59,7 +59,7 @@ class PCPackTool:
             if idx == -1:
                 break
             offsets.append(idx)
-            idx += 4  # Пропустить сигнатуру
+            idx += 4  
         return offsets
 
     def extract_dds(self):
