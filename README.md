@@ -1,4 +1,4 @@
-# Ultimate PCPACK Texture Editor
+# Ultimate PCPACK Editor
 
 NEW PROGRAM FOR EDITING AND MODIFYING TEXTURES FOR ULTIMATE SPIDER-MAN
 
@@ -11,8 +11,11 @@ NEW PROGRAM FOR EDITING AND MODIFYING TEXTURES FOR ULTIMATE SPIDER-MAN
 | Name                   | State   | Info                                         |
 | ---------------------- | ------- | -------------------------------------------- |
 | DDS TEXTURE REPLACE    | 🟩     |                                              |
-| TGA TEXURE REPLACE     | 🟨     | Working with errors                          |
-| multiple files at once | 🟥     |                                              |
-| Models replace         | 🟥     |                                              |
+| PNG SPRITES REPLACE    | 🟩     |                                              |
+| TGA  REPLACE           | 🟥     |                                              |
+| Json  REPLACE          | 🟥     |                                              |
+| multiple files at once | 🟩     |                                              |
+| Models replace         | 🟨     |                                              |
 | Sound replace          | 🟨     | Working with errors                          |
+| Video replace          | 🟨     | Working with errors                          |
 | Text replace           | 🟥     |                                              |
